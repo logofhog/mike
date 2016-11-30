@@ -13,6 +13,8 @@ gem 'uglifier', '>= 1.3.0'
 gem 'pg'
 gem 'slim'
 
+gem 'devise'
+
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
